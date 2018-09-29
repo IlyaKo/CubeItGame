@@ -12,7 +12,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 This application provides users the option of being served video advertisements from a third-party in exchange for in-game rewards. I do not share any collected information with these third-party advertisers but they may collect and store their own information. Their privacy policies are linked below.
 
-Unity Ads: https://unity3d.com/legal/privacy-policy
+ Unity Ads: https://unity3d.com/legal/privacy-policy
 
 **Security**
 
